@@ -1,0 +1,10 @@
+body {
+    background: #ABFECB;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Scale image to fit screen*/
+img {
+    max-width: 100%;
+    height: auto;
+}
